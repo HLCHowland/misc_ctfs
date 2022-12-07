@@ -13,8 +13,6 @@ void win() {
   fflush(stdout);
 }
 
-
-
 // need to make the malloc size 0 and then we write into the buffer 
 char *getComment(char *src, unsigned char len) {
    unsigned char size, malloc_size;
