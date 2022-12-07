@@ -10,7 +10,6 @@ if __name__ == '__main__':
     
     pay_2 = b'\x08\x01\x00\x00\x48\x00\x00\x00' * 32
 
-    
     insert_small_block = str.encode("a\n1\nA\n")
     del_block_0 = str.encode("d\n0\n")
     del_block_1 = str.encode("d\n1\n")
