@@ -1,0 +1,7 @@
+flag:this_is_obviously_the_right_flag
+adam:flag{also_a_fake_flag}
+eve:flag{this_is_the_real_flag}
+nobody:why_are_you_here
+flag:this_is_obviously_the_right_flag
+mallory:flag{also_a_useless_flag}
+key:picoCTF{f0rm4t_5tR1nGs_H3aP_cc533183}

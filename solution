@@ -1,0 +1,6 @@
+1. allocate a block with 255 bytes, put your payload in here
+2. allocate a block with 1 bytes
+3. allocate a block with 1 bytes
+4. delete the first block with one bytes you allocated
+5. add a block with one bytes
+6. delete the 2nd block you added with 1 bytes
